@@ -2,7 +2,7 @@
 	"name":              "dreamfactory/dsp-core",
 	"description":       "DreamFactory Services Platform(tm) Core",
 	"homepage":          "http://dreamfactorysoftware.github.io",
-	"version":           "1.2.2",
+	"version":           "1.2.3",
 	"config":            {
 		"home":      "./",
 		"cache-dir": "./.composer/cache"
